@@ -26,7 +26,6 @@ public class SocialMediaController {
      * @return a Javalin app object which defines the behavior of the Javalin
      *         controller.
      */
-
     AccountService accountService;
     MessageService messageService;
 
